@@ -1,5 +1,5 @@
 # daia-tum-submission-se-ws22-23
-submission of the team Luca (03703106), Max (03700525)&amp; Mathias (03659540)
+submission of the team Luca (03703106), Max (03700525) &amp; Mathias (03659540)
 
 ----
 
